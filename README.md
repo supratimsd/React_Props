@@ -17,7 +17,13 @@ Currently, two official plugins are available:
 In React, props is a short form for "properties", and in a words, it is a mechanism for passing data from a parent component to a child component. Props are immutable. It is used to customize or configure a child component by providing it with values or functions.
 
 #STEPS OF PASSING PROPS==>
+
+
+
 STEP_1=>Passing Data from Parent to Child
+
+
+
 STEP_2=>Receiving Props in the Child Component
 
 
