@@ -6,7 +6,7 @@ const Cards=({name,btnText="click me"})=>{
     
     <div class="relative h-[400px] w-[300px] rounded-md">
     <img
-      src="https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHVzZXJ8ZW58MHx8MHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60"
+      src="https://images.pexels.com/photos/18506230/pexels-photo-18506230/free-photo-of-a-hummingbird-sitting-on-a-tree-branch.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1;auto=format&amp;fit=crop&amp;w=800&amp;q=60"
       alt="AirMax Pro"
       class="z-0 h-full w-full rounded-md object-cover"
     />
